@@ -27,3 +27,5 @@
    * 학습은 어떻게 이루어지나 (How Learning Works)
    * 어떻게 공부할 것인가 (Make It Stick)
    * 마음챙김 학습혁명 (The Power of Mindful Learning)
+
+ * 이 수업은 작년 전공실습 수업인 <https://metakits.cc/SIA2019NoC> 를 기반으로 재구성하고 있습니다.
