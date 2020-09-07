@@ -1,6 +1,11 @@
 ## 과제
  *모든 과제의 기본 제출일은 일요일 자정까지입니다.*
 
+ * TOC
+{:toc}
+
+-----
+
 ### 00 : 수업을 위한 준비
  * 구글 이메일 계정 만들기
  * Kadenze 가입하고 Nature of Code 수업 등록하기
@@ -9,7 +14,7 @@
 ### 01 : 10PRINT 연습과 창작
 수업 시간에 다룬 10 print 예제를 이해하도록 공부해보세요.
 
-http://bit.ly/10-print-simple
+<http://bit.ly/10-print-simple>
 
 이 예제 안에는 다음과 같은 기본 개념이 담겨있습니다.
  * 변수를 만들고 사용하기
@@ -20,10 +25,10 @@ http://bit.ly/10-print-simple
 
 예제의 구조와 동작원리를 정확히 이해하도록 노력해야합니다. 그 과정에서 어려움이 생긴다면 다음 사이트를 참고하세요.
 
- * https://p5js.org/reference/
- * https://youtu.be/bEyTZ5ZZxZs - Coding Train에서 설명하는 10 print 강의영상
- * https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA - Coding Train에서 설명하는 p5.js 기초 수업
-   * 자신이 Processing/P5.js 기초가 부족하다 느끼는 사람은 꼭 이 수업영상을 공부하도록 일정을 세우고 실천하세요. 2~3주 안에 다 볼 수 있도록 노력해봐요. :) 화이팅~ 
+ * <https://p5js.org/reference/>
+ * <https://youtu.be/bEyTZ5ZZxZs> - Coding Train에서 설명하는 10 print 강의영상
+ * <https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA> - Coding Train에서 설명하는 p5.js 기초 수업
+   * 자신이 Processing/P5.js 기초가 부족하다 느끼는 사람은 꼭 이 수업영상을 공부하도록 일정을 세우고 실천하세요. 2~3주 안에 다 볼 수 있도록 노력해봐요. :) 화이팅~
 
 예제의 구조는 눈으로만 이해하는게 아니랍니다. 이해한 범위에서 다른 표현물이 되도록 몇 가지 실험을 하고,
 될 수 있으면 처음 10 print의 기본 예제와는 다른 결과물을 만들어보세요.
