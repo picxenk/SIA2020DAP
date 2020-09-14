@@ -1,5 +1,7 @@
 *수업의 주차별 내용입니다.*
 
+<http://bit.ly/sia2020dap-members> - 주차별 팀작업 노트
+
  * TOC
 {:toc}
 
@@ -23,3 +25,11 @@
    * [MDN 다시 소개하는 자바스크립트](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
    * [Learn ES2015 (ES6)](https://babeljs.io/docs/en/learn)
    * [브라우저별 ES6 구현](http://kangax.github.io/compat-table/es6/)
+
+### #04 : Random Walk
+ * RandomWalk 예제 코드
+   * [RandomWalk 01](https://editor.p5js.org/picxenk@gmail.com/sketches/ejxF-rYAP)
+   * [RandomWalk 02](https://editor.p5js.org/picxenk@gmail.com/sketches/kl2xkLHQZ)
+   * [RandomWalk 03](https://editor.p5js.org/picxenk@gmail.com/sketches/apa77mb1z) - 이 방식을 우리 수업의 표준으로 정합시다!
+ * [브라운 운동](https://ko.wikipedia.org/wiki/%EB%B8%8C%EB%9D%BC%EC%9A%B4_%EC%9A%B4%EB%8F%99)
+ * [Random vs RandomWalk vs Noise](https://editor.p5js.org/picxenk@gmail.com/sketches/vU66CoHcP)
