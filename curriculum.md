@@ -33,3 +33,11 @@
    * [RandomWalk 03](https://editor.p5js.org/picxenk@gmail.com/sketches/apa77mb1z) - 이 방식을 우리 수업의 표준으로 정합시다!
  * [브라운 운동](https://ko.wikipedia.org/wiki/%EB%B8%8C%EB%9D%BC%EC%9A%B4_%EC%9A%B4%EB%8F%99)
  * [Random vs RandomWalk vs Noise](https://editor.p5js.org/picxenk@gmail.com/sketches/vU66CoHcP)
+
+### #05 : Random Walk ++
+ * Object에 대하여
+   * [p5 Examples > Object](https://p5js.org/examples/objects-objects.html)
+   * [p5 Examples > Multiple Objects](https://p5js.org/examples/objects-multiple-objects.html)
+   * [p5 Examples > Array of Objects](https://p5js.org/examples/objects-array-of-objects.html)
+ * <http://repl.it/> 함께 코딩해봅시다!
+  
