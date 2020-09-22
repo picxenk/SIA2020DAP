@@ -35,9 +35,12 @@
  * [Random vs RandomWalk vs Noise](https://editor.p5js.org/picxenk@gmail.com/sketches/vU66CoHcP)
 
 ### #05 : Random Walk ++
+ * 최승준 작가님 특강 관련
+   * [발표 자료를 모은 크렐로](https://trello.com/b/pbUGjotz/%EB%B0%9C%ED%91%9C)
+   * [교육과 애자일 원고](https://docs.google.com/document/d/1rhHV8mowkq8DpKTefUxUNIi84VHMR3gCZDp0WWHtmxQ/edit?usp=sharing)
+   * [카카오AI리포트 : X의 목적은 통찰이지 Y가 아니다](https://brunch.co.kr/@kakao-it/159)
  * Object에 대하여
    * [p5 Examples > Object](https://p5js.org/examples/objects-objects.html)
    * [p5 Examples > Multiple Objects](https://p5js.org/examples/objects-multiple-objects.html)
    * [p5 Examples > Array of Objects](https://p5js.org/examples/objects-array-of-objects.html)
  * <http://repl.it/> 함께 코딩해봅시다!
-  
