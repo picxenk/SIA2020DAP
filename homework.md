@@ -117,7 +117,7 @@
    * 오늘의 팀 구성원이 Zoom으로 30분 정도 짧게 만남을 갖고, Random 오브젝트 만들고 RandomWalk에 적용하기를 복습해보세요.
    * RandomWalk는 이미 익숙할텐데, 아직 오브젝트 구조가 어색하면 <https://p5js.org/examples/objects-objects.html>를 참고해서 연습합니다.
    * Random 클래스는 수업시간에 다룬 것과 유사하게 하나 예제를 만들어봤으니 참고하세요. <https://editor.p5js.org/picxenk@gmail.com/sketches/Y5l4n69e6>
-   * 목표는, 새로 정의한 Random 클래스를 이용해서 여러분 나름대로의 난수 생성방법을 만들어보고, 그 값을 이용해서 RandomWalk의 움직임이나 색상, 크기 등을 표현해보는 것입니다.
+   * ***목표는, 새로 정의한 Random 클래스를 이용해서 여러분 나름대로의 난수 생성방법을 만들어보고, 그 값을 이용해서 RandomWalk의 움직임이나 색상, 크기 등을 표현해보는 것*** 입니다.
    * 클래스를 서로 어떻게 연결해서 사용할지 어려움을 느낄 수 있는데요, 고민도 해보고요, 다음 예제도 한 번 참고해보세요. <https://p5js.org/examples/objects-composite-objects.html>
    * 이 과정에서 어려움을 느끼는 팀 동료가 있다면 서로 도와주세요. 자신이 아는 것, 노하우 등을 나누세요.
    * 그 후에 각자의 경험을 개인 문서에 기록해보고 복습해보세요.
