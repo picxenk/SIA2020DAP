@@ -44,3 +44,12 @@
    * [p5 Examples > Multiple Objects](https://p5js.org/examples/objects-multiple-objects.html)
    * [p5 Examples > Array of Objects](https://p5js.org/examples/objects-array-of-objects.html)
  * <http://repl.it/> 함께 코딩해봅시다!
+
+### #06 : Object + Object
+ * [친구 코드 읽기 1 : 객체의 구조](https://repl.it/@arianans03255/VacantSlushyProlog#index.html)
+ * [친구 코드 읽기 2 : 객체의 결합](https://repl.it/@answnsgud19/Team-3#script.js)
+   * [Array로 만드는 여러 개의 객체](https://p5js.org/examples/objects-array-of-objects.html)
+ * [Jitter를 상속했다!](https://editor.p5js.org/picxenk@gmail.com/sketches/IKiaJulGV)
+ * Vector
+   * [NoC 1장의 p5.js 코드](https://github.com/nature-of-code/noc-examples-p5.js/tree/master/chp01_vectors)
+   * bouncingball_vectors vs bouncingball_vectors_object 읽어보고 차이를 알기
