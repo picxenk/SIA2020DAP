@@ -53,3 +53,19 @@
  * Vector
    * [NoC 1장의 p5.js 코드](https://github.com/nature-of-code/noc-examples-p5.js/tree/master/chp01_vectors)
    * bouncingball_vectors vs bouncingball_vectors_object 읽어보고 차이를 알기
+
+### #07 : 위치 / 속도 / 가속도
+ * S.M.A.R.T
+   * Specific : 구체적으로
+   * Measurable : 측정 가능하게
+   * Attainable : 달성 가능하게
+   * Relevant / Realistic : 적절하고, 현실적으로
+   * Time-framed : 기한이 있는
+
+ * EX.A.C.T
+   * EXciting : 설레이는
+   * Assessable : 성취를 확인 가능한
+   * Challenging : 도전적인
+   * Time-framed : 기한이 있는
+
+ * [Motion 101 예제코드](https://github.com/nature-of-code/noc-examples-p5.js/tree/master/chp01_vectors/NOC_1_07_motion101)
