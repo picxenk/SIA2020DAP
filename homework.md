@@ -1,6 +1,7 @@
-* *모든 과제의 기본 제출일은 일요일 자정까지입니다.*
-* 학교 이클래스에 동일하게 과제 설명이 올라갑니다.
-* 과제5 부터는 [구글문서 과제폴더](https://drive.google.com/drive/folders/1_0gZiEg378oPuKcEaxkxjrbudETRJ7zW?usp=sharing)에 정리합니다.
+*모든 과제의 기본 제출일은 일요일 자정까지입니다.*
+
+학교 이클래스에 동일하게 과제 설명이 올라갑니다.
+과제5 부터는 [구글문서 과제폴더](https://drive.google.com/drive/folders/1_0gZiEg378oPuKcEaxkxjrbudETRJ7zW?usp=sharing)에 정리합니다.
 
 
  * TOC
