@@ -69,3 +69,6 @@
    * Time-framed : 기한이 있는
 
  * [Motion 101 예제코드](https://github.com/nature-of-code/noc-examples-p5.js/tree/master/chp01_vectors/NOC_1_07_motion101)
+
+### #08 : Force 연습과 창작
+ * [NoC Example ch2 Forces](https://github.com/nature-of-code/noc-examples-p5.js/tree/master/chp02_forces)
