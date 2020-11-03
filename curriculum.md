@@ -76,3 +76,7 @@
  * [오늘 수업 PT](https://www.dropbox.com/s/4v7wwwnm1nw1828/SIA_NoC_w08.pdf?dl=0)
    * PT자체에 내용이 많은건 아니니, 꼭 Nature of Code 책과 기타 영상을 함께 참고하세요.
  * [알까기 코드 예제](https://editor.p5js.org/picxenk@gmail.com/sketches/aGuTZ7j4K)
+
+### #10 : 새로운 개발 도구
+ * <https://github.com> 분산버전관리시스템입니다. :) 
+ * <https://atom.io> 우린 이제 이걸로 코딩합시다~
