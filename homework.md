@@ -198,3 +198,20 @@
    * 1주차 정도가 지나고 자신의 팀에 있는 친구들의 작업 저널링에 1회 이상씩 댓글로 응원하고 아이디어를 교환해주세요.
    * 창작의 주제는 자유지만, 창작을 시작하는데 재료는 꼭 Force 개념을 넣어줍니다. [NoC Example ch2 Forces](https://github.com/nature-of-code/noc-examples-p5.js/tree/master/chp02_forces)
    * 단순히 기능적인 예제에서 어느정도 각자의 의미/의도를 부여하며 작업을 진행했느냐에 따라 일부 평가요소를 추가하겠습니다. (A/B/C 배점은 크지 않게요. ^^)
+
+### 07 : Github로 창작하기
+ * 이번 과제는 수업에서 다룬 Github 기반으로 창작물을 관리하는 연습을 합니다.
+ * 지난 과제에서 진행했던 창작물을 Github 저장소로 옮기고, Github Pages로 웹호스팅해봅니다.
+   * 창작물의 주제에 어울리는 이름으로 Github 저장소를 만듭니다.
+   * p5js의 기본 구조를 저장소에 추가합니다.
+   * Github Pages를 설정해서 여러분의 githubID.github.io/저장소이름 URL로 창작물을 웹호스팅합니다.
+ * 지난 주 과제에서 진행하던 작업물을 이어서 작업해봅니다. 몇 번의 commit을 더 해보세요.
+ * 진행하는 과정은 지난 과제 문서에 자유롭게 저널링해도 됩니다.
+ * git / Github에 대해서는 [코딩트레인 : Git & Github for Poets](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)를 더 공부해봅니다. (역시 자유롭게~)
+ * **제출방법**
+   * Github Pages의 주소를 <http://bit.ly/sia2020dap-members> 에 적어주세요.
+   * 작업하는 창작물의 현재 버전이 웹호스팅되고 있어야 합니다.
+ * **평가방법**
+   * 진행하는 창작물이 Github Pages로 호스팅되고 있으면 됩니다.
+   * 창작물의 양이나 완성도로 평가하지 않습니다.
+   * 추가로 작은 commit을 5회 정도 더 해보세요.
