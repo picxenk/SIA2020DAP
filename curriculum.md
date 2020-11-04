@@ -78,5 +78,6 @@
  * [알까기 코드 예제](https://editor.p5js.org/picxenk@gmail.com/sketches/aGuTZ7j4K)
 
 ### #10 : 새로운 개발 도구
- * <https://github.com> 분산버전관리시스템입니다. :) 
+ * <https://github.com> 분산버전관리시스템입니다. :)
  * <https://atom.io> 우린 이제 이걸로 코딩합시다~
+ * [영상 : Github Pages로 p5.js 창작물 올리기](https://youtu.be/DQpdaC3tgs4) - 이번 과제를 할 때 참고해서 연습해보세요. 
