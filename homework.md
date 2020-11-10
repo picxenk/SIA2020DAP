@@ -226,7 +226,7 @@
    * [NoC Example ch4 Systems](https://github.com/nature-of-code/noc-examples-p5.js/tree/master/chp04_systems)의 **예제 4~8을 읽어보세요.**
    * 수업시간에 다룬 1번부터 차근 차근 각 단계별 차이를 보면서 읽어보면 좋습니다.
    * 코드 안에서 **Particle과 ParticleSystem이 어떻게 쓰이는지 파악하는게 중요**합니다.
-   * Nature of Code 책의 [4장 : 파티클시스템](https://natureofcode.com/book/chapter-4-particle-systems/)을 병행하면서 진행하면 좋습니다만, 책의 코드는 Processing 기준으로 설명되고 있는게 있어서 선택적으로 공부해보세요.
+   * Nature of Code 책의 [4장 : 파티클시스템](https://natureofcode.com/book/chapter-4-particle-systems/)을 병행하면서 진행하면 좋습니다만, 책의 코드는 Processing 기준으로 설명되고 있어서 선택적으로 공부해보세요.
    * 이 스텝에 대해서 저널링은 필수는 아니지만, 필요하다면 중간 중간 메모하면 좋습니다.
  * **스텝 02**
    * 읽어본 예제 중에서 마음에 드는 것을 **하나 골라 창작의 씨앗**으로 씁니다.
@@ -241,4 +241,4 @@
  * **평가방법**
    * Github Pages로 호스팅되어야합니다.
    * 자신의 관점으로 창작한 과정에 대해 3단계 이상이 저널링되고, 그에 맞는 Github 커밋이 있어야합니다.
-   * 다시 강조하지만 창작물의 완성도로 평가하는게 아닙니다. 처음의 예제에서 시작하지만 다른 관점으로 상상하고 실험하도록 해주세요.
+   * 다시 강조하지만 창작물의 완성도로 평가하는게 아닙니다. 처음의 예제에서 시작하지만 다른 관점으로 상상하고 실험해보세요.
