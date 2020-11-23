@@ -91,3 +91,7 @@
  * 몇 가지 라이브러리
    * [box2d-html5](https://github.com/nature-of-code/noc-examples-p5.js/tree/master/chp05_libraries/box2d-html5) : [Box2d를 설명하는 코딩트레인 강의](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy4FyZtCHsZc_K0BrXzxfE)
    * [p5-matter](https://github.com/b-g/p5-matter-examples) : [Matter.js를 설명하는 코딩트레인 강의](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6bLh3T_4wtrmVHOrOEM1ig_)
+
+### #13 : p5 라이브러리
+ * [Dom](https://p5js.org/reference/#group-DOM)은 이제 core로 들어왔다.
+ * [sound](https://p5js.org/reference/#/libraries/p5.sound)
