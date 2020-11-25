@@ -95,3 +95,4 @@
 ### #13 : p5 라이브러리
  * [Dom](https://p5js.org/reference/#group-DOM)은 이제 core로 들어왔다.
  * [sound](https://p5js.org/reference/#/libraries/p5.sound)
+ * [Bfxr](https://www.bfxr.net/) : 간단한 효과음을 만들 때 쓰면 편리한 도구입니다. 작품에 사운드를 적용할 학생들은 참고하세요. 
